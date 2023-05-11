@@ -1,7 +1,7 @@
 /*Sortnumber Group7
   Member:
-  Mr.Xaisana
-  Mr.Peter  
+  1. Mr.Xaisana
+  2. Mr.Peter  
 */
 
 import java.util.Scanner;
