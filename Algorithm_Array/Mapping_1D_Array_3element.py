@@ -1,4 +1,9 @@
-#Mapping the value of between three element
+'''Mapping the value of between three element by group 11
+    Member :
+    1. Mr.xaisana
+    2. Mr.thiladeth
+    3. Mr.Peter
+'''
 
 array = [40, 12, 15]
 

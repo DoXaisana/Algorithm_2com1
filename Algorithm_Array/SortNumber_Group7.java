@@ -1,3 +1,9 @@
+/*Sortnumber Group7
+  Member:
+  Mr.Xaisana
+  Mr.Peter  
+*/
+
 import java.util.Scanner;
 
 public class SortNumber_Group7 {
